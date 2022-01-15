@@ -9,6 +9,7 @@ export default function TransactionList() {
 		<>
 			<h3>History</h3>
 			<ul className="list">
+				{transactions.length === 0 && <li>Your Transaction is empty</li>}
 				{transactions.map((transaction) => (
 					<Transaction key={transaction.id} transaction={transaction} />
 				))}

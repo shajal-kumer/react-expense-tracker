@@ -6,16 +6,14 @@ export default function AddTransaction() {
 	const [amount, setAmount] = useState(0);
 
 	const { addTransaction, transactions } = useContext(GlobalContext);
-	function generateId() {
-		return Math.floor(Math.random() * 10000000);
-	}
+
 	const onSubmit = (e) => {
 		e.preventDefault();
 
 		const newTransaction = {
 			text,
 			amount: +amount,
-			id: generateId(),
+			id: transactions.length + 1,
 		};
 		addTransaction(newTransaction);
 	};

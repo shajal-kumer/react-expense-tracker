@@ -1,6 +1,6 @@
 # Project Title
 
-A brief description of what this project does and who it's for
+This repo is the part of my front-end development journey. I have practiced this project to see the Traversy Media youtube video. In this project a user can track his/her expense and income.
 
 ## Demo
 
@@ -8,15 +8,20 @@ Insert gif or link to demo
 
 ## Lessons Learned
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
+-   Context APi
+-   useState
+-   useReducer
+-   map function
+-   reduce function
+-   filter function
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](preview.png)
 
 ## Tech Stack
 
-**Client:** HTML, CSS, Javascript, GSAP
+**Client:** HTML, CSS, Javascript, React
 
 ## 🚀 About Me
 
@@ -30,6 +35,4 @@ I'm a front-end developer with backend knowledge.
 
 ## Acknowledgements
 
--   [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
--   [Awesome README](https://github.com/matiassingers/awesome-readme)
--   [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+-   [Build an Expense Tracker | React Hooks & Context API](https://www.youtube.com/watch?v=XuFDcZABiDQ)
