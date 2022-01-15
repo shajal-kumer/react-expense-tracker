@@ -4,7 +4,7 @@ This repo is the part of my front-end development journey. I have practiced this
 
 ## Demo
 
-Insert gif or link to demo
+https://react-expense-tracker-96lmj7omj-shajal-kumer.vercel.app/
 
 ## Lessons Learned
 
