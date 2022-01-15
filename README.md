@@ -1,4 +1,4 @@
-# Project Title
+# Expense Tracker
 
 This repo is the part of my front-end development journey. I have practiced this project to see the Traversy Media youtube video. In this project a user can track his/her expense and income.
 
