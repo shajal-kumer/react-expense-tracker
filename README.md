@@ -4,7 +4,7 @@ This repo is the part of my front-end development journey. I have practiced this
 
 ## Demo
 
-https://react-expense-tracker-96lmj7omj-shajal-kumer.vercel.app/
+https://react-expense-tracker-six.vercel.app/
 
 ## Lessons Learned
 
